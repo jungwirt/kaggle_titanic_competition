@@ -1,2 +1,2 @@
 # kaggle_titanic_competition
-Repository with code from artificial intelligence class from competition on titanic
+Repository with code from artificial intelligence class from competition on titanic catastrophe survivors dataset
